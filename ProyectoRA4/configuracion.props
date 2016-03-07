@@ -1,0 +1,9 @@
+#|--- PREFERENCIAS ---|
+#Wed Feb 03 10:32:42 CET 2016
+contrasena=pamaloyo18
+usuario=root
+driver=com.mysql.jdbc.Driver
+puerto=3306
+basedatos=ejercito
+servidor=localhost
+protocolo=jdbc\:mysql\://
